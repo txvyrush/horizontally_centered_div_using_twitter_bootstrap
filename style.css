@@ -1,0 +1,10 @@
+#outer{
+  border:1px solid;
+  background-color: #F2EEB3;
+  height:500px;
+}
+#inner{
+  border:1px solid;
+  background-color: #BDAD7E;
+  height: 300px;
+}
